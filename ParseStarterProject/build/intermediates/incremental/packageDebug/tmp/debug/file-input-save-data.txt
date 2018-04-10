@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Tue Apr 10 13:18:30 PDT 2018
+1.base=X\:\\AndroidStudioProjects\\TestApp\\Uber\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\14
+2.path=classes2.dex
+0.baseType=DIRECTORY
+2.base=X\:\\AndroidStudioProjects\\TestApp\\Uber\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\14
+2.set=DEX
+1.baseType=DIRECTORY
+count=3
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=X\:\\AndroidStudioProjects\\TestApp\\Uber\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\14
+2.baseType=DIRECTORY
+1.path=classes3.dex

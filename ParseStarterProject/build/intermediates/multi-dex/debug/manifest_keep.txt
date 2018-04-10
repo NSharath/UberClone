@@ -1,0 +1,3 @@
+# Referenced at X:\AndroidStudioProjects\TestApp\Uber\ParseStarterProject\build\intermediates\manifests\full\debug\AndroidManifest.xml:44
+-keep class com.parse.starter.StarterApplication { <init>(...); }
+
